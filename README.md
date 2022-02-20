@@ -8,7 +8,7 @@ For our results, we refer to the following table:
 
 | June | December |
 | :-: | :-: |
-| ![juneTemps](juneTempsDF.PNG) | ![decTemps](decTempsDF.PNG)
+| ![juneTemps](juneTempsDF.png) | ![decTemps](decTempsDF.png)
 
 As we can see from the two tables, the temperature in Hawaii is remarkably consistent with the mean temperature only dropping by 4&deg;, a 0.5&deg; difference in standard deviation and the minimum dropping by 8&deg;, the maximum dropping by 2&deg;. These differences should be very minor for any would-be surfer.
 
